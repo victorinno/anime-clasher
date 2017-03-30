@@ -67,8 +67,8 @@ Os parametros são do personagem os atributos dos personagens em si, a classe tr
 
 Vou deixar um projeto em Maven com spring boot, vai te ajudar e vou deixar os links com tutoriais ;)
 
-Ao invés de usar o eclipse normal, use o spring tool swite, ele vai te ajudar muito:
-[Spring too swite](https://spring.io/tools)
+Ao invés de usar o eclipse normal, use o spring tool suite, ele vai te ajudar muito:
+[Spring tool suite](https://spring.io/tools)
 
 * [Link para início com spring boot](https://projects.spring.io/spring-boot/)
 * [Link que ensina a fazer um serviço rest com spring boot](https://spring.io/guides/gs/rest-service/)
